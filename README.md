@@ -5,12 +5,14 @@
 
 ### 1.Salary Dashboard   
 This Dashboard provides an interactive view of the salary data, enabling the job seekers to explore compensation trends across the roles, industries and locations - ensuring transparency and informed decision-making.  
-**Tools**: Excel, Pivot Tables, Conditional Formatting  
+**Tools**: Excel, Pivot Tables, Conditional Formatting   
 
+[1_Salary_Dashboard.xlsx](https://github.com/user-attachments/files/19785837/1_Salary_Dashboard.xlsx)
 
 📌 *Click the title above to explore the full project*
 
-![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/35759818-d647-4ae7-b055-26f9c4e5b1d6)
+
+![_Salary_Dashboard_](https://github.com/user-attachments/assets/f7273651-a969-4eec-b445-8893066c86cb)
 
 ### 2.Salary Analysis
 As a job seeker navigating the data science market, I was often surprised by the lack of clear insights into the most in-demand skills and the roles that offer the best compensation. This motivated me to explore what top employers are really looking for — and how aspiring professionals can align their skillsets to land high-paying opportunities.   
