@@ -18,7 +18,7 @@ This Dashboard provides an interactive view of the salary data, enabling the job
 As a job seeker navigating the data science market, I was often surprised by the lack of clear insights into the most in-demand skills and the roles that offer the best compensation. This motivated me to explore what top employers are really looking for — and how aspiring professionals can align their skillsets to land high-paying opportunities.   
 **Tools**: Excel, Data Cleaning, KPIs, Pivot Charts   
 
-
+[2_Project_Analysis.xlsx](https://github.com/user-attachments/files/19785877/2_Project_Analysis.xlsx)   
 📌 *Click the title above to view detailed documentation and the Excel file*
 
 
