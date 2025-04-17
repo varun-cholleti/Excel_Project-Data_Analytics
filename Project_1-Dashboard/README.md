@@ -1,4 +1,4 @@
-# Salary Dashboard
+# Project 1 : Salary Dashboard
 
 ![_Salary_Dashboard_](https://github.com/user-attachments/assets/6364bed4-3850-42de-807d-a94a7749a1c8)
 
