@@ -19,6 +19,8 @@ As a job seeker navigating the data science market, I was often surprised by the
 **Tools**: Excel, Data Cleaning, KPIs, Pivot Charts   
 
 [2_Project_Analysis.xlsx](https://github.com/user-attachments/files/19785877/2_Project_Analysis.xlsx)   
+
+
 📌 *Click the title above to view detailed documentation and the Excel file*
 
 
